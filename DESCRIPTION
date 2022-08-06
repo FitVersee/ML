@@ -1,0 +1,15 @@
+IN THE ML PART WE USED :
+
+OPEN CV - image
+      recognization and  
+      motion recognization 
+Mediapipe - for posture
+      recognization
+Tkinter - for UI and buttons
+scikit
+Pyttsx3
+CSV
+numpy, pandas
+
+
+WE USED VOICE ASSISTANT FOR PROPER WORKOUT AND WARNING . 
